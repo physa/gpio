@@ -5,6 +5,6 @@ led = LED(16)
 
 while True:
     led.on()
-    sleep(1)
+    sleep(3)
     led.off()
     sleep(1)
